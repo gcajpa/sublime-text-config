@@ -6,6 +6,9 @@
 		"LESS",
 		"Package Control",
 		"SFTP",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+                "GitGutter",
+                "JSLint",
+                "Prefixr"
 	]
 }
