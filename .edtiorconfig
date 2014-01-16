@@ -1,0 +1,12 @@
+root = true
+
+; Pra todos os arquivos
+[*]
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false
+
+; Estilo de identação em arquivos Front End
+[*.{html, css, js}]
+indent_style = tab
+indent_size = 4
