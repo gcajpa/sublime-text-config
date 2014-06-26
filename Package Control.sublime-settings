@@ -9,6 +9,7 @@
 		"SideBarEnhancements",
                 "GitGutter",
                 "JSLint",
-                "Prefixr"
+                "Prefixr",
+                "Clipboard History"
 	]
 }
